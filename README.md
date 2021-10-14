@@ -44,6 +44,6 @@ Get familiar with NEAR smart contract front-end starter project
 ## Bonus tasks
 
 1. Add new methods to smart contract from NCD I starter project and try to call them via UI of NCD II starter project
-2. Check other sample projects for inspiration
+2. Check [other sample projects](https://github.com/orgs/Learn-NEAR/repositories) for inspiration
 
 > Congratulations! If you got there and finished all tasks, you will have no issues getting your NCD I and NCD II certifications!
