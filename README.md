@@ -38,7 +38,7 @@ Get familiar with NEAR smart contract front-end starter project
 
 1. Get [starter project](https://github.com/Learn-NEAR/starter--near-api-js) to your PC -> `git clone <url>`
 2. Open `./index.html` in your browser
-3. Try to logging and test the app
+3. Test the app and try to log in
 4. Now change contradId in files to one you generated in NCD I and see the changes
 
 ## Bonus tasks
