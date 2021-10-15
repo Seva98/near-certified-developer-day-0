@@ -22,7 +22,7 @@ By the way, you are still welcomed to attend NCD courses but without this basic 
 - [HTML basics](https://www.w3schools.com/html/default.asp) - to create UI
 - [JavaScript basics](https://www.w3schools.com/js/default.asp) - to be able to call NEAR smart contract from front-end (UI)
 - [TypeScript basics](https://www.freecodecamp.org/news/learn-typescript-basics/) or [AssemblyScript basics](https://www.assemblyscript.org/basics.html#strictness) or [Rush basics](https://doc.rust-lang.org/stable/rust-by-example/) - to create your NEAR smart contract
-- [Shell (Bash) basics](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) (optional) - to help you with `near-cli` and other command line scripts
+- [Shell (Bash) basics](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) - (optional) - to help you with `near-cli` and other command line scripts
 
 ## NCD I - Day 0
 
